@@ -14,3 +14,46 @@ To quickly bootstrap a new web project structure with this automation script:
 ```bash
 ./new-project.sh <your-project-name>
 \`\`\`
+## Live Demo
+
+[View Live Site](https://github.io)
+
+## Screenshot
+
+![Project Screenshot](./images/screenshot.png)
+
+## Features
+
+- ✅ Responsive design
+- ✅ Multi-page layout
+- ✅ Clean folder structure
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Git & GitHub
+
+## Project Structure
+
+```text
+iyf-s12-week--03--fairyfaiyth/
+├── index.html
+├── about.html
+├── projects.html
+├── contact.html
+├── styles.css
+├── new-project.sh
+├── make-boilerplate.sh
+├── terminal-log.md
+├── README.md
+├── images/
+├── pages/
+└── daily-challenge-1/
+```
+
+## Contact
+
+- GitHub: [fairyfaiyth](https://github.com)
+- Email: [faiythmutisya@gmail.com]
+
